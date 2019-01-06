@@ -1,0 +1,11 @@
+export const LANDING = '/';
+export const PROFILE_1 = '/profileData';
+export const PROFILE_2 = '/profilePics';
+export const PROFILE_3 = '/profileBeverages';
+export const MAP = '/myLocation';
+export const DASHBOARD = '/dashboard';
+export const MEETING = '/meeting';
+export const MEETINGPOINT = '/meetingPoint';
+export const MAPDIRECTION = '/mapDirection';
+export const MAPDIRECTIONCHECK = '/mapDirectCheck';
+export const DATETIME = '/dateTime';
